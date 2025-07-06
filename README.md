@@ -1,21 +1,21 @@
-# 🧵 Solace Pixel – Automated Islamic Quote Poster for Instagram & Facebook
+# 🧵 Solace Pixel – Automated for Instagram & Facebook
 
-Solace Pixel is a **Streamlit-based tool** designed to help creators generate pixel-themed Islamic posts and publish them automatically to **Instagram** and **Facebook Pages** using the **Meta Graph API**. It combines image generation, Cloudinary image hosting, and social media automation — all with a clean, dynamic UI.
+Solace Pixel is a **Streamlit-based tool** designed to help creators generate posts and publish them automatically to **Instagram** and **Facebook Pages** using the **Meta Graph API**. It combines image generation, Cloudinary image hosting, and social media automation — all with a clean, dynamic UI.
 
 ## 📌 Use Case
 
 This tool is built for:
 
-- 🧕 **Islamic content creators** who want to share verses, quotes, or reflections using pixel-style visuals.
-- 🎮 **Gaming-themed da’wah pages** using Minecraft/pixel art as a creative medium.
+- 🧕 **content creators** who want to share verses, quotes, or reflections using visuals.
+- 🎮 **Gaming-themed pages** using Minecraft/pixel art as a creative medium.
 - ⏱️ Anyone looking to **automate their social media content posting** with minimal effort.
 
 ## 🔁 What It Does
 
 1. Upload a **pixel-style image** (e.g., Minecraft scene or pixel art).
 2. Add:
-   - Islamic **quote**
-   - Reference (e.g., Qur’an 94:6)
+   - Title **quote**
+   - Reference
    - Caption and hashtags for Instagram
 3. It generates a **4:5 portrait Instagram-ready post** with custom pixel fonts.
 4. Uploads the image to **Cloudinary**
