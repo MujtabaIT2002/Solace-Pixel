@@ -1,0 +1,23 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Secrets
+.env
+
+# Output/generated files
+output.png
+uploaded_image.jpg
+output_instagram_post.png
+
+# System files
+.DS_Store
+Thumbs.db
